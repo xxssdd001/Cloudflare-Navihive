@@ -10,15 +10,15 @@
     // 认证配置
     "AUTH_ENABLED": "true",
     "AUTH_REQUIRED_FOR_READ": "false",
-    "AUTH_USERNAME": "admin",
-    "AUTH_PASSWORD": "$2a$10$Ad1Vu8l8RNdrMn5RPj0pjeLQHh3sTd.OyqjNKFrWTNT/cj1DzkwAi",
-    "AUTH_SECRET": "navihive-test-secret-2025"
+    "AUTH_USERNAME": "snow",
+    "AUTH_PASSWORD": "admin2026A$",
+    "AUTH_SECRET": "admin2027Aa$$"
   },
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "navihive-test-db",
-      "database_id": "86de3963-705e-4baf-b454-e485de8293eb"
+      "database_name": "navigation-db-local",
+      "database_id": "9b3f8448-19b4-4d47-be8a-4148334914f3"
     }
   ]
 }
